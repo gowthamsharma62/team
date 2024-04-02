@@ -1,0 +1,166 @@
+Employee Name	Employee EMP ID	Employee Email id	Manager	Manager EMP ID	Manager Email Address	BU
+Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Vijay Bhaskar Thota	1171	vijaybhaskar.thota@accolitedigital.com	Health Care
+Joe Anto Raj	1170	joeanto.raj@accolitedigital.com	Vijay Bhaskar Thota	1171	vijaybhaskar.thota@accolitedigital.com	Tech Bu
+Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Vijay Bhaskar Thota	1171	vijaybhaskar.thota@accolitedigital.com	Health Care
+Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Health Care
+Aijaz Ansari	2127	aijaz.ansari@accolitedigital.com	Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Health Care
+Mir Mazhar Ali Razvi	1700	mirmazharali.razvi@accolitedigital.com	Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Health Care
+Vishnu Vardhan	3454	vishnuvardhan.narahari@accolitedigital.com	Mir Mazhar Ali Razvi	1700	mirmazharali.razvi@accolitedigital.com	Health Care
+Kevin	1733	kevin.mansabdar@accolitedigital.com	Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Health Care
+Mir Azhar Ali Razvi	2164	razvi.azhar@accolitedigital.com	Kevin	1733	kevin.mansabdar@accolitedigital.com	Health Care
+Aditya Kaza	2462	venkataadithya.kaza@accolitedigital.com	Kevin	1733	kevin.mansabdar@accolitedigital.com	Health Care
+Harish K	1743	harish.kalapatapu@accolitedigital.com	Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Health Care
+Mohammed Abdul Samad	1734	mohammedabdul.samad@accolitedigital.com	Harish K	1743	harish.kalapatapu@accolitedigital.com	Health Care
+Ranjit Kumar G	1701	ranjit.gatla@accolitedigital.com	Srinivas Gattupalli	1012	bobby@accolitedigital.com	Health Care
+Harika Gadiraju	6222	gadiraju.harika@accolitedigital.com	Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Health Care
+Daxesh Nayak	3832	daxesh.nayak@accolitedigital.com	Ranjit Kumar G	1701	ranjit.gatla@accolitedigital.com	Health Care
+Tanay Mody	3839	tanay.mody@accolitedigital.com	Ranjit Kumar G	1701	ranjit.gatla@accolitedigital.com	Health Care
+Ajay Chimkodkar	2758	ajay.chimkodkar@accolitedigital.com	Ajay Nair	3830	ajay.nair@accolitedigital.com	Health Care
+Naveen Kumar Pilli	6220	pilli.kumar@accolitedigital.com	Tanay Mody	3839	tanay.mody@accolitedigital.com	Health Care
+Sai Bangaru	2687	saikumar.b@accolitedigital.com	Ajay Nair	3830	ajay.nair@accolitedigital.com	Health Care
+Mahesh Yadav	5780	mahesh.yadav@accolitedigital.com	Ajay Chimkodkar	2758	ajay.chimkodkar@accolitedigital.com	Health Care
+Maddela Shiva Kiran	3113	shivakiran.m@accolitedigital.com	Sai Bangaru	2687	saikumar.b@accolitedigital.com	Health Care
+Ajay Nair	3830	ajay.nair@accolitedigital.com	Srinivas Gattupalli	1012	bobby@accolitedigital.com	Health Care
+Srinivas Gattupalli	1012	bobby@accolitedigital.com	Pavan Kumar Palepu	1174	pavankumar.palepu@accolitedigital.com	Health Care
+Basanth Nandal	3834	basant.nandal@accolitedigital.com	Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Health Care
+Ravi Samani	3851	ravi.samani@accolitedigital.com	Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Health Care
+Arpan Shastri	3833	arpan.shastri@accolitedigital.com	Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Health Care
+Jignesh Kanaiyalal Pancha	3835	jignesh.panchal@accolitedigital.com	Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Health Care
+Srinivas Kanthala	3886	srinivas.kanthala@accolitedigital.com	Mohammed Abdul Rahman	1703	mohammedabdul.rahman@accolitedigital.com	Health Care
+Harish D	5276	harish.deshaboina@accolitedigital.com	Aijaz Ansari	2127	aijaz.ansari@accolitedigital.com	Health Care
+Sunil Sonale	2689	sonale.sunil@accolitedigital.com	Aijaz Ansari	2127	aijaz.ansari@accolitedigital.com	Health Care
+Yogesh Dhayapule	6197	dhayapule.yogesh@accolitedigital.com	Aijaz Ansari	2127	aijaz.ansari@accolitedigital.com	Health Care
+Sirikonda Bhargava Chary	6808	sirikonda.chary@accolitedigital.co	Mir Mazhar Ali Razvi	1700	mirmazharali.razvi@accolitedigital.com	Health Care
+Siddique Ahmed Tachi	5775	siddique@accolitedigital.com	Mir Mazhar Ali Razvi	1700	mirmazharali.razvi@accolitedigital.com	Health Care
+Shaik Imran	2688	shaik.imran@accolitedigital.com	Mir Mazhar Ali Razvi	1700	mirmazharali.razvi@accolitedigital.com	Health Care
+Aman Agarwal	5275	aman.agarwal@accolitedigital.com	Shaik Imran	2688	shaik.imran@accolitedigital.com	Health Care
+Anoop Singh	6756	anoop.singh@accolitedigital.com	Shaik Imran	2688	shaik.imran@accolitedigital.com	Health Care
+Pandiri Sai Kiran	7698	pandiri.kiran@accolitedigital.com	Shaik Imran	2688	shaik.imran@accolitedigital.com	Health Care
+I.R.Rahul	6920	i.rahul@accolitedigital.com	Mir Azhar Ali Razvi	2164	razvi.azhar@accolitedigital.com	Health Care
+Shaik Sarfaraj	INT1531	shaik.sarfaraj@accolitedigital.com	Mir Azhar Ali Razvi	2164	razvi.azhar@accolitedigital.com	Health Care
+Amit Kumar Jha	6162	amit.jha@accolitedigital.com	Aditya Kaza	2462	venkataadithya.kaza@accolitedigital.com	Health Care
+Raman	7334	raman.kumar@accolitedigital.com	Aditya Kaza	2462	venkataadithya.kaza@accolitedigital.com	Health Care
+Abhinav Batula	5778	abhinav.bathula@accolitedigital.com	Harish K	1743	harish.kalapatapu@accolitedigital.com	Health Care
+Rasaputra	6291	rasaputra.singh@accolitedigital.com	Harish K	1743	harish.kalapatapu@accolitedigital.com	Health Care
+Padigela Nitin Kumar	7233	padigela.kumar@accolitedigital.com	Mohammed Abdul Samad	1734	mohammedabdul.samad@accolitedigital.com	Health Care
+Kakarla Vineela	7362	kakarla.vineela@accolitedigital.com	Mohammed Abdul Samad	1734	mohammedabdul.samad@accolitedigital.com	Health Care
+Vikas Gummadi	3123	vikas.gummadi@accolitedigital.com	Ranjit Kumar G	1701	ranjit.gatla@accolitedigital.com	Health Care
+Seshi Vardhan	7451	patimedhi.rao@accolitedigital.com	Mahesh Yadav	5780	mahesh.yadav@accolitedigital.com	Health Care
+Obulapuram Srilakshmi	INT1538	obulapuram.srilakshmimani@accolitedigital.com	Ramineedi Venkata Bhaskar	7550	ramineedi.bhaskar@accolitedigital.com	Tech Bu
+Sony Ingolo	INT1542	lingolo.sony@accolitedigital.com	Harika Gadiraju	6222	gadiraju.harika@accolitedigital.com	Health Care
+Sowmya Pasupatati	6540	pasupulati.sowmya@accolitedigital.com	Ramineedi Venkata Bhaskar	7550	ramineedi.bhaskar@accolitedigital.com	Tech Bu
+Thasleem Syed	6959	syed.thasleem@accolitedigital.com	Harika Gadiraju	6222	gadiraju.harika@accolitedigital.com	Health Care
+Yogeshwaran Natarajan	3840	yogeshwaran.natarajan@accolitedigital.com	Sai Bangaru	2687	saikumar.b@accolitedigital.com	Health Care
+Ritesh Prasad	3852	ritesh.prasad@accolitedigital.com	Ajay Chimkodkar	2758	ajay.chimkodkar@accolitedigital.com	Health Care
+Akash Reddy	CNT0917	aakash@accolitedigital.com	Ajay Chimkodkar	2758	ajay.chimkodkar@accolitedigital.com	Health Care
+Ponnala Srinivas	CNT1005	ponnala.srinivas@accolitedigital.com	Tanay Mody	3839	tanay.mody@accolitedigital.com	Health Care
+Gudem Reddy	7562	gudem.reddy@accolitedigital.com	Tanay Mody	3839	tanay.mody@accolitedigital.com	Health Care
+Myaka Vinay	CNT1006	myaka.vinay@accolitedigital.com	Ajay Chimkodkar	2758	ajay.chimkodkar@accolitedigital.com	Health Care
+Shanmukha Valluri	7209	shanmukha.valluri@accolitedigital.com	Ajay Chimkodkar	2758	ajay.chimkodkar@accolitedigital.com	Health Care
+C Kiran Kumar	INT1541	c.kumar@accolitedigital.com	Naveen Kumar Pilli	6220	pilli.kumar@accolitedigital.com	Health Care
+K Aakash	INT1535	k.akash@accolitedigital.com	Naveen Kumar Pilli	6220	pilli.kumar@accolitedigital.com	Health Care
+Manoj Shashikant	5777	manoj.bhavsar@accolitedigital.com	Sai Bangaru	2687	saikumar.b@accolitedigital.com	Health Care
+KamalDeep Singh	INT1540	sardar.singh@accolitedigital.com	Sai Bangaru	2687	saikumar.b@accolitedigital.com	Health Care
+Madhusudhan K	7378	k.madhusudhan@accolitedigital.com	Mahesh Yadav	5780	mahesh.yadav@accolitedigital.com	Health Care
+Sashikant Aitha	7456	shashikanth.aitha@accolitedigital.com	Mahesh Yadav	5780	mahesh.yadav@accolitedigital.com	Health Care
+Yamjala Vamshi	7403	yamjala.goud@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Munawwar	7452	mohammed.uddin@accolitedigital.com	Maddela Shiva Kiran	3113	shivakiran.m@accolitedigital.com	Health Care
+Adil Rahman	5779	adil.rahman@accolitedigital.com	Ajay Nair	3830	ajay.nair@accolitedigital.com	Health Care
+Manoj Kumar Kandepu	3124	manoj.kandepu@accolitedigital.com	Srinivas Gattupalli	1012	bobby@accolitedigital.com	Health Care
+Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Srinivas Gattupalli	1012	bobby@accolitedigital.com	Health Care
+Sandeep Kumar	3322	sandeep.kumar1@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Soumya Dutta	2930	soumyasankar.dutta@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Herbert Samson John	2350	herbertsamson.john@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Deepak Kishore Manda	6175	manda.deepak@accolitedigital.com	Tech Bu
+Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Joe Anto Raj	1170	joeanto.raj@accolitedigital.com	Tech Bu
+Suman Kant	202189	suman.Kant@accolitedigital.com	Joe Anto Raj	1170	joeanto.raj@accolitedigital.com	Tech Bu
+Nilavar Dinesh	5761	dinesh.nilavar@accolitedigital.com	Ramineedi Venkata Bhaskar	7550	ramineedi.bhaskar@accolitedigital.com	Tech Bu
+Om Prakash Jangiti	6111	jangiti.prakash@accolitedigital.com	Ranjit Kumar G	1701	ranjit.gatla@accolitedigital.com	Health Care
+Afrozuddin Md Shahzeb	6673	afrozuddin.shahzeb@accolitedigital.com	Ramineedi Venkata Bhaskar	7550	ramineedi.bhaskar@accolitedigital.com	Tech Bu
+Yechuri Mahesh	6987	yechuri.mahesh@accolitedigital.com	Ranjit Kumar G	1701	ranjit.gatla@accolitedigital.com	Health Care
+Dhanunjay Tayi	2317	dhanunjay.tayi@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Lavanya katta	3268	lavanya.katta@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Alfred Soloman John	3298	alfred.john@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Harish Merugu	3625	harish.merugu@accolitedigital.com	Ramineedi Venkata Bhaskar	7550	ramineedi.bhaskar@accolitedigital.com	Tech Bu
+Parth Goswami	3849	parth.goswami@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Afif Ahmed Irfan Patel	6390	afif.patel@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+F Jeevan Kumar	6561	f.kumar@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Ankit Asati	6086	ankit.asati@accolitedigital.com	Sandeep Kumar	3322	sandeep.kumar1@accolitedigital.com	Tech Bu
+Nishant Kumar	3602	nishant.kumar@accolitedigital.com	Sandeep Kumar	3322	sandeep.kumar1@accolitedigital.com	Tech Bu
+Pradeep Kumar	2747	pradeep.bandarupalli@accolitedigital.com	Sandeep Kumar	3322	sandeep.kumar1@accolitedigital.com	Tech Bu
+Siva Kumar	2498	siva.kumar@accolitedigital.com	Sandeep Kumar	3322	sandeep.kumar1@accolitedigital.com	Tech Bu
+Rahul Sharma	2512	rahul.sharma@accolitedigital.com	Sandeep Kumar	3322	sandeep.kumar1@accolitedigital.com	Tech Bu
+Madhulika Mukherjee	3825	madhulika.mukherjee@accolitedigital.com	Soumya Dutta	2930	soumyasankar.dutta@accolitedigital.com	Tech Bu
+Gopichand P	5149	gopichand.potla@accolitedigital.com	Herbert Samson John	2350	herbertsamson.john@accolitedigital.com	Tech Bu
+Raviteja G	2877	raviteja.gv@accolitedigital.com	Herbert Samson John	2350	herbertsamson.john@accolitedigital.com	Tech Bu
+Sai Ramya T	5183	sairamya.thada@accolitedigital.com	Herbert Samson John	2350	herbertsamson.john@accolitedigital.com	Tech Bu
+Saiteja G	2775	saiteja.garrepally@accolitedigital.com	Herbert Samson John	2350	herbertsamson.john@accolitedigital.com	Tech Bu
+Sree Sai Nag Suhrudh Gutta	3612	suhrudh.gutta@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Bandaru Hari Teja	7185	bandaru.teja@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Chegudi Yamini Priya	6549	chegudi.priya@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Nishant Garg	6189	nishant1@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+P Siddartha	6280	p.siddartha@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Ryali veera Venkata Sri Vamsi	3730	vamsi.ryali@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Sharwari Subodh Inkane	6817	sharwari.inkane@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Vemu Masthan Chaithanya	6388	vemu.chaithanya@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Yamini Nandanwar Naidu	6290	yamini.naidu@accolitedigital.com	Sainath Yadav	1833	sainath.yadav@accolitedigital.com	Tech Bu
+Ramanand Kumar	3439	ramanand.kumar@accolitedigital.com	Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Tech Bu
+Sahil	2271	sahil.sabarwal@accolitedigital.com	Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Tech Bu
+Ajay Kumar Pujari	2620	ajaykumar.pujari@accolitedigital.com	Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Tech Bu
+Naman Jain	5191	naman.jain1@accolitedigital.com	Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Tech Bu
+Medolinshameena Johnsonmartin	5688	medolinshameena.johnsonmartin@accolitedigital.com	Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Tech Bu
+Nallajerla Srilekha	7212	nallajerla.srilekha@accolitedigital.com	Mahendra Guntu	1389	mahendra.g@accolitedigital.com	Tech Bu
+Chandraveena M	7208	mudedlla.chandraveena@accolite	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+B Guru Theja	7187	b.theja@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Insiya Khan	6557	insiya.khan@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Jayanthi Murthy	6230	jayanthi.murthy@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Jovish Sharma	6352	jovish.sharma@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Khyathi Pajjuri	7189	khyathi.pajjuri@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Mounika Y	7012	yenubothula.mounika@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Murapaka Krishna Babu	6909	murapaka.babu@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Naveen Tammisetti	6656	naveen.tammisetti@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Sandeep Gurram	6286	gurram.sandeep@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Shashank Shekar	7242	shashank.shekhar@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Sravanaboina Venukumar	6361	sravanaboina.venukumar@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Manasa Peddapalli	3595	manasa.peddapalli@accolitedigital.com	Ranjit Kale	1724	ranjith.kale@accolitedigital.com	Tech Bu
+Bellampalli Thirupathi	6289	bellampalli.thirupathi@accolitedigital.com	Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Tech Bu
+MD Khaled	6219	md.khaled@accolitedigital.com	Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Tech Bu
+Shaik Nasarvali	6576	shaik.nasarvali@accolitedigital.com	Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Tech Bu
+Sukumar Bhargavi	5864	sukumar.bhargavi@accolitedigital.com	Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Tech Bu
+Venkatesh Gali	6224	gali.venkatesh@accolitedigital.com	Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Tech Bu
+Sumanth Mukka	5737	mukka.sumanth@accolitedigital.com	Suverna Chavan	6410	suvarna.chavan@accolitedigital.com	Tech Bu
+A Nikhil	7181	a.nikhil@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Aare Navya	7226	aare.navya@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Duryodhan M	1892	duryodhan.m@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Mukul Rao	3137	mukul.rao@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Nitin Kumar	7186	nitin.kumar@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Satturi Yaswanth Mohan	7193	satturi.mohan@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Arun Kumar S	5493	arunkumar.s@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Sai Chand kataru	5401	saichand.kataru@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Kusuma	7156	parupureddy.kusuma@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Santhosh	2064	madugula.santosh@accolitedigital.com	Kiran Kumar	1417	kiran.kumar@accolitedigital.com	Tech Bu
+Juan Carlos Gonzalez	202212	juan.barreto@accolitedigital.com	Suman Kant	202189	suman.Kant@accolitedigital.com	Tech Bu
+Jonatan olmedo	202241	jonatan.olmedo@accolitedigital.com	Suman Kant	202189	suman.Kant@accolitedigital.com	Tech Bu
+Paul Delgado	202188	paul.delgado@accolitedigital.com	Suman Kant	202189	suman.Kant@accolitedigital.com	Tech Bu
+Gadde Rammohan Chowdary	INT1543	gadde.chowdary@accolitedigital.com	Harish K	1743	harish.kalapatapu@accolitedigital.com	Health Care
+Bathula Sai Ram	INT1546	bathula.ram@accolitedigital.com	Vikas Gummadi	3123	vikas.gummadi@accolitedigital.com	Health Care
+Pagadala Ajay Kumar	7528	pagadala.kumar@accolitedigital.com	Srinivas Gattupalli	1012	bobby@accolitedigital.com	Health Care
+Chinthagari Mohan	INT1547	chinthagari.mohan@accolitedigital.com	Harish K	1743	harish.kalapatapu@accolitedigital.com	Health Care
+Gujjula Chandu Vardhan	INT1544	gujjula.vardhan@accolitedigital.com	Maddela Shiva Kiran	3113	shivakiran.m@accolitedigital.com	Health Care
+Sattu Sai Kiran	INT1548	sattu.kiran@accolitedigital.com	Naveen Kumar Pilli	6220	pilli.kumar@accolitedigital.com	Health Care
+Maltumkar Rajat kumar	INT1550	maltumkar.kumar@accolitedigital.com	Tanay Mody	3839	tanay.mody@accolitedigital.com	Health Care
+Aditya Sirohi	CNT0978	aditya.sirohi@accolitedigital.com	Harish K	1743	harish.kalapatapu@accolitedigital.com	Health Care
+Sangireddy Navya	7674	Sreesangireddy.sree@accolitedigital.com	Harika Gadiraju	6222	gadiraju.harika@accolitedigital.com	Health Care
+Siraj Ahmad	6794	siraj.ahmad@accolitedigital.com	Parveen Sharma	3826	parveen.sharma@accolitedigital.com	Health Care
+Nirav Prajapati	3837	nirav.prajapati@accolitedigital.com	Sai Bangaru	2687	saikumar.b@accolitedigital.com	Health Care
+Thaviti Rakesh	INT1545 	thaviti.rakesh@accolitedigital.com	Mahesh Yadav	5780	mahesh.yadav@accolitedigital.com	Health Care
+SURABHI VINAY RAO	INT1601	surabhi.rao@accolitedigital.com	Maddela Shiva Kiran	3113	shivakiran.m@accolitedigital.com	Health Care
+Aravind Kumar Juvvanapudi	7778	aravind.juvvanapudi@accolitedigital.com	Ajay Nair	3830	ajay.nair@accolitedigital.com	Health Care
+Bommadi Chiranjeevi Venkata Sai Anish	7775	bommadi.anish@accolitedigital.com	Tanay Mody	3839	tanay.mody@accolitedigital.com	Health Care
+Pankaj Goplani	7790	pankaj.goplani@accolitedigital.com	Naveen Kumar Pilli	6220	pilli.kumar@accolitedigital.com	Health Care
+Chitrapu Vamshi Vardhan	7798	chitrapu.vardhan@accolitedigital.com	Srinivas Gattupalli	1012	bobby@accolitedigital.com	Health Care
+Harika Reddy	INT1625	reddy.redd@accolitedigital.com	Harika Gadiraju	6222	gadiraju.harika@accolitedigital.com	Health Care
+Sardar Prabhjoth Singh	INT1549	sardar.singh1@accolitedigital.com	Sai Bangaru	2687	saikumar.b@accolitedigital.com	Health Care
